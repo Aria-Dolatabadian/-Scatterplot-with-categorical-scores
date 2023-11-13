@@ -1,7 +1,7 @@
 library(ggplot2)
 
 # Read data back into R
-imported_data <- read.csv("data.csv")
+imported_data <- read.csv("data2.csv")
 
 
 # Vector of colors
