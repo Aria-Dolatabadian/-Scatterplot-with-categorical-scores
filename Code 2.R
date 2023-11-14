@@ -3,7 +3,6 @@ library(ggplot2)
 # Read data back into R
 imported_data <- read.csv("data2.csv")
 
-
 # Vector of colors
 cols <- c("#1170AA", "#55AD89", "#EF6F6A")
 
